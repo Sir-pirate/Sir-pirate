@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sir-pirate&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=false" />
+</a>
 
 <!--
 **Sir-pirate/Sir-pirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
